@@ -45,7 +45,7 @@ The dashboard includes the following visualizations and metrics:
 
 Add your dashboard screenshot to the repository and name it `dashboard-screenshot.png`.
 
-![Data Professional Survey Dashboard](dashboard-screenshot.png)
+![Data Professional Survey Dashboard](screenshort/Dashboard.png)
 
 ## 📁 Project Files
 
